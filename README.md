@@ -73,26 +73,6 @@ LPIC-1-Exam-101-102/
 
 ---
 
-## Contribution Guidelines
-
-1. **Do not generate your own content.**
-   - All content must strictly follow the objectives and topics outlined in the official LPIC website.
-
-2. **Cite the source.**
-   - Include references to the official LPIC pages wherever applicable.
-
-3. **Content Format:**
-   - **Objective Name**: Write the title of the objective (e.g., `101.1 Determine and Configure Hardware Settings`).
-   - **Description**: Include a brief summary from the official site.
-   - **Detailed Topics**: Use the breakdown from LPI.
-   - **Links**: Add references to the relevant LPIC pages.
-
-4. **Markdown Standards**:
-   - Use proper markdown syntax for headings, lists, and code snippets.
-   - Ensure the content is clean, readable, and consistent.
-
----
-
 ## License
 
 This repository uses the MIT License. See the LICENSE file for more details.
